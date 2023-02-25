@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! My name's Samuel Oliveira ✋
 
-<!--
-**oliveirasamuel5959/oliveirasamuel5959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-patr%C3%ADcio-7877b3145/)
+[![Blog](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samoliveirap_/)
 
-Here are some ideas to get you started:
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirasamuel5959&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TECHNOLOGY USED TILL NOW
+
+<div style="display: inline_block"><br/>
+    <img align="center"alt="C/C++" src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
