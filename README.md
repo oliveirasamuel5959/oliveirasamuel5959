@@ -22,9 +22,7 @@
     <img align="center"alt="EXPRESSJS" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img align="center"alt="DJANGO" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center"alt="MYSQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center"alt="MONGODB" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img align="center"alt="SQLITE" src="https://img.shields.io/badge/C%2B%2B-00599C?
-    style=for-the-badge&logo=c%2B%2B&logoColor=white"></br>
+    <img align="center"alt="MONGODB" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></br>
 </div></br>
 
 
