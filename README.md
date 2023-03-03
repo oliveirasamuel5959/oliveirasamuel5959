@@ -6,9 +6,7 @@
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirasamuel5959&show_icons=true&theme=dracula)
 #
-## TECHS USED
-#
-
+## PROGRAMMING LANGUAGES SKILLS
 - HARDWARE EMBEDDED
 
 <div style="display: inline_block">
